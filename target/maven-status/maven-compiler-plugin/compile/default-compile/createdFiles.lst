@@ -1,0 +1,6 @@
+com\qa\shopping\utiles\ElementUtil.class
+com\qa\shopping\pages\HomePage.class
+com\qa\shopping\factory\JavaScriptUtil.class
+com\qa\shopping\factory\DriverFactory.class
+com\qa\shopping\factory\OptionsManager.class
+com\qa\shopping\utiles\Constants.class

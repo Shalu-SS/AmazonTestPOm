@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-01T22:11:24 IST" name="Default suite" finished-at="2025-04-01T22:13:57 IST" duration-ms="153035">
+    <groups>
+    </groups>
+    <test started-at="2025-04-01T22:11:24 IST" name="Default test" finished-at="2025-04-01T22:13:57 IST" duration-ms="153035">
+      <class name="com.qa.shopping.tests.HomePageTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:com.qa.shopping.tests.HomePageTest@f6efaab]" started-at="2025-04-01T22:11:24 IST" name="setup" finished-at="2025-04-01T22:11:28 IST" duration-ms="4409" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="loginPageTitleTest()[pri:1, instance:com.qa.shopping.tests.HomePageTest@f6efaab]" started-at="2025-04-01T22:11:28 IST" name="loginPageTitleTest" finished-at="2025-04-01T22:12:16 IST" duration-ms="47677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method signature="doSearchItem()[pri:2, instance:com.qa.shopping.tests.HomePageTest@f6efaab]" started-at="2025-04-01T22:12:16 IST" name="doSearchItem" finished-at="2025-04-01T22:12:26 IST" duration-ms="9541" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSearchItem -->
+        <test-method signature="doSearchItemClick()[pri:3, instance:com.qa.shopping.tests.HomePageTest@f6efaab]" started-at="2025-04-01T22:12:26 IST" name="doSearchItemClick" finished-at="2025-04-01T22:13:30 IST" duration-ms="64655" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doSearchItemClick -->
+        <test-method signature="moveTop()[pri:4, instance:com.qa.shopping.tests.HomePageTest@f6efaab]" started-at="2025-04-01T22:13:30 IST" name="moveTop" finished-at="2025-04-01T22:13:57 IST" duration-ms="26645" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- moveTop -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:com.qa.shopping.tests.HomePageTest@f6efaab]" started-at="2025-04-01T22:13:57 IST" name="teardown" finished-at="2025-04-01T22:13:57 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.qa.shopping.tests.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
